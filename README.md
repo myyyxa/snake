@@ -1,2 +1,3 @@
 # snake
-python+kivy+android
+python+kivy+android.
+From tutorial
